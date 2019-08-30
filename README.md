@@ -2,7 +2,7 @@
 My implementation of useful data structure and algorithm.
 
 ## Sorting
-[x] Quick sort \\
+[x] Quick sort \n
 [] Bubble sort \\
 [] Insertion sort
 
