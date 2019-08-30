@@ -20,6 +20,7 @@ My implementation of useful data structure and algorithm.
 - [ ] Earathosne sieve  
 - [ ] Two sum in O(n) time (lc_two_sum.py) - 1 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 - [ ] Find sum of all subarrays of an array  
+- [x] Find greatest common divisor of two numbers.
 
 ## Graphs
 - [ ] Undirect graph  
