@@ -12,7 +12,7 @@ My implementation of useful data structure and algorithm.
 - [ ] Trees  
 
 ## Dynamic Programming
-- [ ] Compute Fibonacci sequence  
+- [x] Compute Fibonacci sequence  
 - [ ] Longest sequence problem  
 
 ## Mathematical problem
