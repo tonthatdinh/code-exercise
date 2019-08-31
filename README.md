@@ -8,7 +8,7 @@ My implementation of useful data structure and algorithm.
 
 ## Data structure
 - [ ] Heap  
-- [ ] Linked-list  
+- [x] Linked-list  
 - [ ] Trees  
 
 ## Dynamic Programming
