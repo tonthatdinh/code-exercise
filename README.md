@@ -1,6 +1,11 @@
 # code-interview
 My implementation of useful data structure and algorithm.
 
+## Design Pattern
+- [ ] Singleton
+- [ ] Factory
+- [ ] Abstract Factory
+
 ## Sorting
 - [x] Quick sort  
 - [ ] Bubble sort 
