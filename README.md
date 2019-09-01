@@ -12,7 +12,7 @@ My implementation of useful data structure and algorithm.
 - [ ] Insertion sort  
 
 ## Data structure
-- [ ] Heap  
+- [x] Heap  
 - [x] Linked-list  
 - [ ] Trees  
 
