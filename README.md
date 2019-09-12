@@ -6,10 +6,13 @@ My implementation of useful data structure and algorithm.
 - [ ] Factory
 - [ ] Abstract Factory
 
-## Sorting
+## Sorting (Sort algorithm.ipnb)
 - [x] Quick sort  
-- [ ] Bubble sort 
-- [ ] Insertion sort  
+- [x] Bubble sort 
+- [x] Insertion sort 
+- [ ] Heap sort
+- [ ] Shell sort
+- [ ] Merge sort
 
 ## Data structure
 - [x] Heap  
