@@ -32,9 +32,9 @@ My implementation of useful data structure and algorithm.
 
 ## Graphs
 - [ ] Undirect graph  
-- [ ] Direct graph  
-- [ ] Depth First Search  
-- [ ] Breadth First Search  
+- [x] Direct graph  
+- [x] Depth First Search  
+- [x] Breadth First Search  
 - [ ] Dijkstra's algorithm  
 - [ ] Floyd's algorithm  
 ## Stack and queues 
