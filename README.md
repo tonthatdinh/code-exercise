@@ -18,7 +18,9 @@ My implementation of useful data structure and algorithm.
 - [x] Heap  
 - [x] Linked-list  
 - [ ] Trees  
-
+- [ ] Hashmap
+- [ ] Queue
+- [ ] Stack
 ## Dynamic Programming
 - [x] Compute Fibonacci sequence  
 - [ ] Longest sequence problem  
